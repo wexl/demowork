@@ -7,7 +7,11 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
-
+/**
+ * ceshi sss
+ * @author Administrator
+ *
+ */
 public class MainActivity extends Activity {
 
 	/** ÉêÃ÷ÊÓÍ¼¿Ø¼ş */
